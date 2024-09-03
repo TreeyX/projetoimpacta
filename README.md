@@ -2,6 +2,7 @@ Projeto de BI para a faculdade Impacta 1a AC, apresentando kpi's de um banco fic
 
 Lista de Funcionalidades para 1a AC:
 
+  Front do dashboard criado no figma
   Valor aprovado de alertas,
   Hit Rate,
   Ifp,
