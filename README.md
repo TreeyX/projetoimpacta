@@ -11,6 +11,7 @@ Lista de Funcionalidades para 1a AC:
   Alertas Volumetria Mês,
   Quantidade por status,
   dCalendario, Tabelas de Alertas, Tabelas de Cartoes com cancelamento.
+  Modo de interação dos filtros alterado para filtragem cruzada.
 
   Medidas criadas: Ifp, Hit, qty_alerts, qty_fraud, trn_amt_approved, trn_amt_fat
 
