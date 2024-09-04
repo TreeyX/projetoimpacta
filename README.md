@@ -12,6 +12,8 @@ Lista de Funcionalidades para 1a AC:
   Quantidade por status,
   dCalendario, Tabelas de Alertas, Tabelas de Cartoes com cancelamento.
   Modo de interação dos filtros alterado para filtragem cruzada.
+  ETL de cruzamento dos cartões que tem algum status com a tabela de alerta
+  ETL para criação da dcalendario em M
 
   Medidas criadas: Ifp, Hit, qty_alerts, qty_fraud, trn_amt_approved, trn_amt_fat
 
