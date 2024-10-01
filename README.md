@@ -22,7 +22,7 @@ Lista de Funcionalidades para 2a AC:
   Taxa de aprovacao,
   Month over Month
 
-  Medidas criadas: Ifp, Hit, qty_alerts, qty_fraud, trn_amt_approved, trn_amt_fat
+  Medidas criadas: Ifp, Hit, qty_alerts, qty_fraud, trn_amt_approved, trn_amt_fat, LastMonth, MoM, approved_rate
 
   Todas as informações do dashboard são ficticias e não existem de fato.
-  Essa é a atividade da 1a AC.
+  Essa é a atividade da 1a AC e 2ª AC.
