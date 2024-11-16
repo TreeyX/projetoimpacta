@@ -26,3 +26,26 @@ Lista de Funcionalidades para 2a AC:
 
   Todas as informações do dashboard são ficticias e não existem de fato.
   Essa é a atividade da 1a AC e 2ª AC.
+
+Lista de Funcionalidades para 3a AC:
+
+  Sheet "class_bank_rules" com algumas visões novas, 
+  Alertas por regras, 
+  Alertas dia, 
+  Alertas por método de entrada da transação
+
+  Todas as informações do dashboard são ficticias e não existem de fato.
+  Essa é a atividade da 1, 2 e 3 AC .
+
+Lista de Funcionalidades para Prova:
+
+  PROVA
+   Design do projeto feito no figma
+   Sheet "class_bank_performance" com algumas visões novas, 
+   Visão analítica da performance das regras
+   Botao de navegação
+   Sheet “End” para finalizar o dashboard, 
+   Diagrama modelo de dados
+
+  Todas as informações do dashboard são ficticias e não existem de fato.
+  Essa é a atividade da 1, 2, 3 AC e PROVA .
